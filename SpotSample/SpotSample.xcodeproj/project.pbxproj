@@ -15,6 +15,7 @@
 		925DF4D720AC5BB500E0901C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 925DF4D520AC5BB500E0901C /* LaunchScreen.storyboard */; };
 		925DF4E220AC5BB500E0901C /* SpotSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 925DF4E120AC5BB500E0901C /* SpotSampleTests.swift */; };
 		925DF4ED20AC5BB500E0901C /* SpotSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 925DF4EC20AC5BB500E0901C /* SpotSampleUITests.swift */; };
+		925DF4FB20B06DC000E0901C /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 925DF4FA20B06DC000E0901C /* CoreLocation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		925DF4E820AC5BB500E0901C /* SpotSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpotSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		925DF4EC20AC5BB500E0901C /* SpotSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotSampleUITests.swift; sourceTree = "<group>"; };
 		925DF4EE20AC5BB500E0901C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		925DF4FA20B06DC000E0901C /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		C7220AC6069C80673D7520D6 /* Pods-SpotSample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SpotSample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SpotSample/Pods-SpotSample.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,6 +60,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				925DF4FB20B06DC000E0901C /* CoreLocation.framework in Frameworks */,
 				164FE623C22A34FA1A9F04A3 /* libPods-SpotSample.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -82,6 +85,7 @@
 		318E8345680182A7B9CF91EF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				925DF4FA20B06DC000E0901C /* CoreLocation.framework */,
 				4EF26FBCBA18F44F66DF489C /* libPods-SpotSample.a */,
 			);
 			name = Frameworks;
