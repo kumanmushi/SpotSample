@@ -52,6 +52,7 @@
 		925DF4EC20AC5BB500E0901C /* SpotSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotSampleUITests.swift; sourceTree = "<group>"; };
 		925DF4EE20AC5BB500E0901C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		925DF4FA20B06DC000E0901C /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		92830D4420B310D3008A2539 /* mapstogpx20180521_143155.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = mapstogpx20180521_143155.gpx; path = /Users/murata_shinya/Documents/sourceTree/SpotSample/SpotSample/SpotSample/mapstogpx20180521_143155.gpx; sourceTree = "<absolute>"; };
 		C7220AC6069C80673D7520D6 /* Pods-SpotSample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SpotSample.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SpotSample/Pods-SpotSample.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -116,6 +117,7 @@
 		925DF4CB20AC5BB400E0901C /* SpotSample */ = {
 			isa = PBXGroup;
 			children = (
+				92830D4420B310D3008A2539 /* mapstogpx20180521_143155.gpx */,
 				925DF4CC20AC5BB400E0901C /* AppDelegate.swift */,
 				925DF4CE20AC5BB400E0901C /* ViewController.swift */,
 				925DF4D020AC5BB400E0901C /* Main.storyboard */,

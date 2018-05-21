@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2018 Google, ZENRIN</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2018</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/35.6597246,139.7039485/35.6608459,139.7067096/@35.659903,139.7043127,18z/data=!4m2!4m1!3e2?hl=ja-JP&hl=en</url-->
+    <time>2018-05-21T23:31:54Z</time>
+  </metadata>
+  <name>Shibuya-ku to Japan</name>
+  <number>1</number>
+  <wpt lat="35.6595999" lon="139.7026767">
+      <name>TP001</name>
+  </wpt>
+  <wpt lat="35.65967" lon="139.70265">
+      <name>TP002</name>
+  </wpt>
+  <wpt lat="35.65973" lon="139.70302">
+      <name>TP003</name>
+  </wpt>
+  <wpt lat="35.659727" lon="139.703023">
+      <name>TP004</name>
+  </wpt>
+  <wpt lat="35.65974" lon="139.70311">
+      <name>TP005</name>
+  </wpt>
+  <wpt lat="35.65985" lon="139.70379">
+      <name>TP006</name>
+  </wpt>
+  <wpt lat="35.6598473" lon="139.7037926">
+      <name>TP007</name>
+  </wpt>
+  <wpt lat="35.65985" lon="139.70386">
+      <name>TP008</name>
+  </wpt>
+  <wpt lat="35.65992" lon="139.70423">
+      <name>TP009</name>
+  </wpt>
+  <wpt lat="35.65996" lon="139.70447">
+      <name>TP010</name>
+  </wpt>
+  <wpt lat="35.6599562" lon="139.7044659">
+      <name>TP011</name>
+  </wpt>
+  <wpt lat="35.65997" lon="139.70453">
+      <name>TP012</name>
+  </wpt>
+  <wpt lat="35.66003" lon="139.70483">
+      <name>TP013</name>
+  </wpt>
+  <wpt lat="35.6600303" lon="139.7048267">
+      <name>TP014</name>
+  </wpt>
+  <wpt lat="35.66005" lon="139.70491">
+      <name>TP015</name>
+  </wpt>
+  <wpt lat="35.66022" lon="139.70566">
+      <name>TP016</name>
+  </wpt>
+  <wpt lat="35.66023" lon="139.70573">
+      <name>TP017</name>
+  </wpt>
+  <wpt lat="35.66031" lon="139.70577">
+      <name>TP018</name>
+  </wpt>
+  <wpt lat="35.6603081" lon="139.7057727">
+      <name>TP019</name>
+  </wpt>
+  <wpt lat="35.66036" lon="139.70594">
+      <name>TP020</name>
+  </wpt>
+  <wpt lat="35.66037" lon="139.70601">
+      <name>TP021</name>
+  </wpt>
+  <wpt lat="35.66047" lon="139.70617">
+      <name>TP022</name>
+  </wpt>
+  <wpt lat="35.66078" lon="139.70666">
+      <name>TP023</name>
+  </wpt>
+  <wpt lat="35.6607825" lon="139.7066618">
+      <name>TP024</name>
+  </wpt>
+  <wpt lat="35.66084" lon="139.70674">
+      <name>TP025</name>
+  </wpt>
+  <wpt lat="35.66084" lon="139.70675">
+      <name>TP026</name>
+  </wpt>
+  <wpt lat="35.66139" lon="139.70758">
+      <name>TP027</name>
+  </wpt>
+  <wpt lat="35.6613866" lon="139.7075792">
+      <name>TP028</name>
+  </wpt>
+  <wpt lat="35.66144" lon="139.70766">
+      <name>TP029</name>
+  </wpt>
+  <wpt lat="35.66158" lon="139.70789">
+      <name>TP030</name>
+  </wpt>
+  <wpt lat="35.66168" lon="139.70806">
+      <name>TP031</name>
+  </wpt>
+  <wpt lat="35.66175" lon="139.70815">
+      <name>TP032</name>
+  </wpt>
+  <wpt lat="35.6617456" lon="139.7081544">
+      <name>TP033</name>
+  </wpt>
+</gpx>
