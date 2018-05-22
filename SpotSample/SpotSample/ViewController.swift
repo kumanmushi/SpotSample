@@ -52,7 +52,7 @@ class ViewController: UIViewController, GMSMapViewDelegate, CLLocationManagerDel
         let moniteringCordinate = location
 
         // モニタリングしたい領域を作成
-        let moniteringRegion = CLCircularRegion.init(center: moniteringCordinate, radius: 5.0, identifier: locationName)
+        let moniteringRegion = CLCircularRegion.init(center: moniteringCordinate, radius: 20.0, identifier: locationName)
 
         // モニタリング開始
         locationManager.startMonitoring(for: moniteringRegion)

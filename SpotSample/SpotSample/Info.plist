@@ -34,10 +34,10 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>あなたの現在地を表示します</string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Location Always Usage Description</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>位置情報を常に許可する使用目的を記述</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>位置情報をアプリ起動時のみ許可する使用目的を記述</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
